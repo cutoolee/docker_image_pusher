@@ -1,2 +1,2 @@
-alist
+nginx
 xhofe/alist:latest
