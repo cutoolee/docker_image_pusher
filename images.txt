@@ -1,3 +1,2 @@
 nginx
-xhofe/alist:latest
 hslr/sun-panel:v1.5.0-beta24-05-11
