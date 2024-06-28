@@ -1,2 +1,2 @@
 nginx
---platform=linux/arm jxxghp/moviepilot:latest
+jxxghp/moviepilot:latest
